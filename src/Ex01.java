@@ -5,6 +5,7 @@ public class Ex01 {
 		System.out.println("자 다들 새로운 마음으로 시작합시다");
 		System.out.println("깔끔하고 새로운 코드");
 		System.out.println("by 팀장");
+		System.out.println("이러면되는건가");
 
 	}
 }
