@@ -9,6 +9,7 @@ public class Ex01 {
 		System.out.println("by go home");
 		System.out.println("이러면 되는건가");
 		System.out.println("후....");
+		System.out.println("ll");
 		System.out.println("맞을지도");
 
 
