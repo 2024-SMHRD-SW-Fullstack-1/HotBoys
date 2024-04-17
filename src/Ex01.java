@@ -10,7 +10,7 @@ public class Ex01 {
 		System.out.println("이러면 되는건가");
 		System.out.println("얍");
 		System.out.println("후....");
-
+		System.out.println("test ");
 	}
 
 }
