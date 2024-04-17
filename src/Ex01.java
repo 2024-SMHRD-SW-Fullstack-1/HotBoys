@@ -8,6 +8,7 @@ public class Ex01 {
 		System.out.println("by 팀장");
 		System.out.println("by go home");
 		System.out.println("이러면 되는건가");
+		System.out.println("얍");
 
 	}
 
